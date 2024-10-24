@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "PackageManagerRegisterTest (Package)": {
+      "commandName": "MsixPackage",
+      "nativeDebugging": true
+    },
+    "PackageManagerRegisterTest (Unpackaged)": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
